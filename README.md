@@ -11,7 +11,12 @@
 
 Currently expanding my profile towards **Data Analysis** and **Artificial Intelligence**, blending business acumen with data-driven solutions that deliver real impact. With **machine learning** projects like this [Machine learning]([https://www.ironhack.com/](https://github.com/Aitorlandauro/PROYECTO_ML.git)). 
 
-I like handball, snowboard, lifelong learning & animals =)
+<h1 align="center">🚀 About Me</h1>
+
+📍 **Location:** Barcelona, Spain
+🎯 **Expertise:** Engineering, operations optimization, team leadership
+🧠 **Passions:** Artificial Intelligence, data analytics, process automation
+🎓 **Education:** Currently pursuing a Master’s in Artificial Intelligence at Evolve Academy
 
 ---------------------------------------------
 
