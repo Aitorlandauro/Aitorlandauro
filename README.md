@@ -19,7 +19,7 @@ Currently expanding my profile towards **Data Analysis** and **Artificial Intell
 
 🧠 **Passions:** Artificial Intelligence, data analytics, process automation
 
-🎓 **Education:** Currently pursuing a Master’s in Artificial Intelligence at Evolve Academy
+🎓 **Education:** Currently pursuing a Master’s in Artificial Intelligence at **Evolve Academy**
 
 ---------------------------------------------
 
