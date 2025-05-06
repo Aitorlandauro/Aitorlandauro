@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
-**Technical designer** and **engineering department** specializing in **hydraulics**, **solidworks**, and **autocad**, with expertise in data science, **machine learning**, and **digital pathology**. Researcher with 12+ peer-reviewed publications as both author and co-author.
+**Technical designer** and **engineering department** specializing in **hydraulics**, **solidworks**, and **autocad**.
 
 Currently expanding my profile towards **Data Analysis** and **Artificial Intelligence**, blending business acumen with data-driven solutions that deliver real impact. With **machine learning** projects like this [Machine learning]([https://www.ironhack.com/](https://github.com/Aitorlandauro/PROYECTO_ML.git)). 
 
